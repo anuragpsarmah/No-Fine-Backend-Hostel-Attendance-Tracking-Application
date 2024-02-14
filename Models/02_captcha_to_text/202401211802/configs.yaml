@@ -1,0 +1,9 @@
+batch_size: 64
+height: 45
+learning_rate: 0.001
+max_text_length: 6
+model_path: Models/02_captcha_to_text\202401211802
+train_epochs: 1000
+train_workers: 20
+vocab: 0a6f54812bcde793
+width: 127
