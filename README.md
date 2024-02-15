@@ -28,7 +28,7 @@ A free-tier AWS VPS can be used for hosting this project. To deploy and run this
     pip install numpy
     ```
     
-4. Run the main.py file. Subsequently, the script will run on http://localhost:5000/ , actively listening to incoming POST requests.
+4. Run the main.py file. Subsequently, the script will run on http://localhost:5000/ , actively listening to incoming POST requests from the android frontend.
 
 5. Download and authenticate ngrok from https://ngrok.com/ .
 
