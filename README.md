@@ -4,7 +4,7 @@
 
 The backend functionality is summarized as follows:
 1. Automated login and data extraction are facilitated through the use of the Selenium package.
-2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication. (Refer to KP-Captcha-Model repository for more details)
+2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication. (Refer to KP-Captcha-Solving-Model repository for more details)
 
 ## Deployment
 
@@ -55,14 +55,6 @@ A free-tier AWS VPS can be used for hosting this project. To deploy and run this
 
 ## Screenshots
 
-<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934140/Screenshot_2024-02-14-22-46-20-18_e3dfd801bae453b1d34e24dd12bbba4f_exkdso.jpg" alt="Alt text" width="420" height="800"></p>
+<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708012894/Screenshot_1_hlyag9.png" alt="Alt text" width="800" height="400"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934139/Screenshot_2024-02-14-08-40-15-95_b783bf344239542886fee7b48fa4b892_jw7le3.jpg" alt="Alt text" width="420" height="800">
-
-## Download
-
-**To uphold security and ensure data privacy, it is advisable to build your own APK and host the backend on a personal VPS server**
-
-Download the application from the release section of the repository or scan this QR. Please note that the application may require maintenance, and the version you download might not function properly at the time of download. It's advisable to obtain the source code and build the application for optimal performance.
-
-<img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707963789/No_FIne_Download_cymew2.png" alt="Alt text" width="300" height="300">
+<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708012895/Screenshot_3_lwqshc.png" alt="Alt text" width="800" height="400">
