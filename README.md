@@ -4,7 +4,7 @@
 
 The backend functionality is summarized as follows:
 1. Automated login and data extraction are facilitated through the use of the Selenium package.
-2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication.
+2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication. (Refer to KP-Captcha-Model repository for more details)
 
 ## Deployment
 
