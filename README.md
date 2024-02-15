@@ -4,7 +4,7 @@ No Fine is an application designed for Christ University Hostel (K E Hall, Jonas
 
 The backend functionality is summarized as follows:
 1. Automated login and data extraction are facilitated through the use of the Selenium package.
-2. An ML model, trained on KP Captchas, is employed for login authentication.
+2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication.
 
 ## Deployment
 
