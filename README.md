@@ -55,6 +55,14 @@ A free-tier AWS VPS can be used for hosting this project. To deploy and run this
 
 ## Screenshots
 
+<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708152556/Screenshot_263_gc7xhe.png" alt="Alt text" width="800" height="400">
+
 <p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708012894/Screenshot_1_hlyag9.png" alt="Alt text" width="800" height="400"></p>
 
 <p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708012895/Screenshot_3_lwqshc.png" alt="Alt text" width="800" height="400">
+
+<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708152556/Screenshot_261_ge7vkx.png" alt="Alt text" width="800" height="150">
+
+<p align="center"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1708152556/Screenshot_262_hubj8k.png" alt="Alt text" width="800" height="150">
+
+
