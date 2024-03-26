@@ -6,7 +6,7 @@ The backend functionality is summarized as follows:
 1. Automated login and data extraction are facilitated through the use of the Selenium package.
 2. An ML model, trained on Knowledge Pro Captchas, is employed for login authentication. (Refer to KP-Captcha-Solving-Model repository for more details)
 
-https://github.com/anuragp787/No-Fine-Backend-Hostel-Attendance-Tracking-Application/assets/90975247/056538f4-0e64-46f4-b8c6-13dde68f733e
+https://github.com/anuragp787/No-Fine-Backend-Hostel-Attendance-Tracking-Application/assets/90975247/28ed22c7-54f6-49d3-bcb9-ddc5b733a742
 
 ## Deployment
 
